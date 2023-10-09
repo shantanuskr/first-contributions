@@ -12,7 +12,7 @@
 - [Wazir Shehryar Ali](https://github.com/vzirshehryar)
 - [zh chen](https://github.com/JasonC10)
 - [Richard Triplett](https://github.com/retripl)
-- [Shantanu Sarkar](https://https://github.com/shantanuskr)
+- [Shantanu Sarkar](https://github.com/shantanuskr)
 - [Asher Farhan](https://github.com/AsherFarhan2001)
 - [Saumya bansal](https://github.com/saumyabansal17)
 - [Armughan Noor](https://github.com/armughan-Noor)
